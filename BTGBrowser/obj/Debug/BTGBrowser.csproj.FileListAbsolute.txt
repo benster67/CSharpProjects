@@ -1,0 +1,9 @@
+c:\users\pieco\onedrive\documents\visual studio 2013\Projects\BTGBrowser\bin\Debug\BTGBrowser.exe.config
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\bin\Debug\BTGBrowser.exe
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\bin\Debug\BTGBrowser.pdb
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\obj\Debug\BTGBrowser.csprojResolveAssemblyReference.cache
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\obj\Debug\BTGBrowser.Properties.Resources.resources
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\obj\Debug\BTGBrowser.csproj.GenerateResource.Cache
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\obj\Debug\BTGBrowser.exe
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\obj\Debug\BTGBrowser.pdb
+C:\Users\pieco\OneDrive\Documents\Visual Studio 2013\Projects\BTGBrowser\obj\Debug\BTGBrowser.BTGBrowser.resources
